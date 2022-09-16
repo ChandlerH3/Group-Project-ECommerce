@@ -1,7 +1,7 @@
 # Group-Project-ECommerce
  
 ## Setup
-This is my group project that builds an e-commerce app using React, Node.JS, and MongoDB to showcase wearables products.
+This is my group project that builds an e-commerce app using React, Node.js, and MongoDB to showcase wearables products.
 
 ### The Frontend
 
